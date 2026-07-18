@@ -62,6 +62,10 @@
     \{\
       "name": "crystall1nedev's server",\
       "address": "https://anisette.crystall1ne.dev"\
+   \},\
+    \{\
+      "name": "abace18",\
+      "address": "https://anisette-v3-server-59sn.onrender.com"\
     \}\
   ],\
   "cache": "https://servers.sidestore.io/servers.json.hash"\
